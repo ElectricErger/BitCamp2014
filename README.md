@@ -8,3 +8,14 @@ App/site for workouts (mapmyfitness Mashery)
 	Makes a playlist (Rdio)
 	Diet recommendations depending on final results (esha)
 	Finds events you can go to (lead so hotels)
+
+
+Battle Plan:
+	Make an account
+	Get a working calendar (google cal?) - manually add events
+	Plan trip (if applicable) (google maps)
+	Weather warning
+	Add interests --> Find people with similar interests
+	Add a phone --> Schedule calls
+	Goal list --> Diet
+	Relavent events --> Hotels
