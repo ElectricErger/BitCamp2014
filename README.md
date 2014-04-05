@@ -19,3 +19,26 @@ Battle Plan:
 	Add a phone --> Schedule calls
 	Goal list --> Diet
 	Relavent events --> Hotels
+
+Needs:
+	User:
+		-Name
+		-Password
+		-Phone (optional)
+		-Email
+		-Geographic location
+		-Friends
+		-Home location
+		-Interests
+	Workout:
+		-Type (e.g. jog)
+		-Time
+		-Place
+		-Path
+		-Elapsed time
+		-Goal
+		-Cal burned?
+
+
+Notes:
+Time function is not changing from GMT, must adjust real time. Idea: Use Google maps to determine the timezone and adjust accordingly
